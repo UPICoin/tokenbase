@@ -2,7 +2,8 @@
 addr: '0xf4faea455575354d2699bc209b0a65ca99f69982'
 decimals: 18
 description: >-
-  FILL ME IN
+  From a global community to unbiased and trustless reviews, we are working to bring cryptocurrency to the main stream.
+  With the No BS Token the community reviews ICOs, Exchanges, and other projects to separate the BS from the No BS.
 links:
 - Bitcointalk: https://bitcointalk.org/index.php?topic=4709590
 - Chat 2: https://discordapp.com/invite/s2wZUCA
@@ -13,8 +14,6 @@ links:
 - Twitter: https://twitter.com/nobscrypto
 - Website: https://nobscrypto.com
 - Website: https://nobscrypto.com/
-- Reddit: ADD OR DELETE LINE
-- Whitepaper: ADD OR DELETE LINE
-- Blog: ADD OR DELETE LINE
+- Whitepaper: https://nobstoken.com/files/wp.pdf
 name: No BS Crypto
 symbol: NOBS
